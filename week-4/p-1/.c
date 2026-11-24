@@ -6,6 +6,5 @@ scanf("%199s", s);
 while (s[n] != '\0') {
     n++;
 }
-
 printf("Length = %d", n);   //
 }
