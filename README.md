@@ -5,13 +5,13 @@ Welcome to my programming practice repository!
 
 ## Student Information
 
-- **Name:**
-- **Student ID:**
-- **Section:**
+- **Name:MD ARAFAT RAHMAN**
+- **Student ID:0112620184**
+- **Section:F**
 - **Course:** CSE 1112
 - **Course Title:** Structured Programming Language Laboratory
-- **Trimester:**
-- **Instructor:**
+- **Trimester:2**
+- **Instructor:HAMUDI HASAN SONET**
 
 ## About This Repository
 
